@@ -14,6 +14,7 @@ class COLORS():
     WHITE = pygame.Color(255, 255, 255)
     SQLIGHT = pygame.Color(217, 174, 121)
     SQDARK = pygame.Color(110, 76, 35)
+    LIGHTGREEN = pygame.Color(113, 245, 150)
 
 # lengthy default values
 class DEFAULTS():
